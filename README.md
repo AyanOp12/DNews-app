@@ -18,4 +18,4 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/news-app.git](https://github.com/YourUsername/news-app.git)
+   git clone [https://github.com/AyanOp12/DNews-app.git](https://github.com/AyanOp12/DNews-app.git)
